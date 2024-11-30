@@ -60,5 +60,11 @@
         display: /*[[socbuttons]]*/;
     }
 }
-
+/*See Beginners Guide fix.*/
+.VPButton.brand[data-v-e73c303f] {
+  border-color: var(--vp-button-brand-border);
+  color: rgb(255, 255, 255);
+  background-color: var(--vp-button-brand-bg);
+}
+    
 }
